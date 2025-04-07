@@ -1,6 +1,6 @@
 # Fundamentos de Java e Programação Orientada a Objetos
 
-Este repositório contém os exercícios e projetos desenvolvidos no curso de Java da (https://www.alura.com.br/), com foco em fundamentos da linguagem, leitura de dados com Scanner e conceitos essenciais de orientação a objetos.
+Este repositório contém os exercícios e projetos desenvolvidos no curso de Java da [Alura](https://www.alura.com.br/), com foco em fundamentos da linguagem, leitura de dados com Scanner e conceitos essenciais de orientação a objetos.
 
 ## 🚀 Tecnologias utilizadas
 
